@@ -1,4 +1,4 @@
-# print("Задание 2.1")4
+#print("Задание 2.1")4
 from datetime import datetime
 
 LOG_FILE = "calculator.log"
